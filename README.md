@@ -13,3 +13,9 @@ cd ml
 ```
 
 jupyter notebook을 활용하여 사용
+
+```powershell
+jupyter notebook
+```
+
+6Decision_Tree.ipynb : 의사결정나무 예제
